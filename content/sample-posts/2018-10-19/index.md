@@ -1,7 +1,7 @@
 ---
 title: "Smart Private Donation"
 cover: "https://unsplash.it/1280/900/?random?TheFallenTime"
-author: "Young Kwon"
+author: "casper"
 date: "2018-10-19"
 category: "blockchain"
 tags:
