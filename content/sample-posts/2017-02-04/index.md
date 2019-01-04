@@ -36,6 +36,3 @@ The Ethereum community created these standards with three optional rules, and si
 * Ethereum
 * Solidity
 * Truffle
-
-
-Quibus **se intus montibus**. Auro terrae: mare e adulterium, per dolet et.

@@ -15,5 +15,3 @@ Transactions are verified by network nodes through cryptography and recorded in 
 
 ## Tools
 * nodejs
-
-Quibus **se intus montibus**. Auro terrae: mare e adulterium, per dolet et.

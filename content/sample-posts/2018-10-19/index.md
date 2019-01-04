@@ -21,6 +21,3 @@ This was the tool that we used.
 * GatsbyJS
 * React
 * Material-UI
-
-Here is a link to the system.
-* [Gatsby v2 refactoring cheat sheet](https://www.gatsbycentral.com/gatsby-v2-refactoring-cheat-sheet)
